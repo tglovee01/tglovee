@@ -37,7 +37,7 @@ jobs:
       run: |
         python nv_visitor.py
     - name: echo test
-      run : |
+      run: |
         echo "hi"
-    - name : Test Python 
+    - name: Test Python 
         python -h
